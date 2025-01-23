@@ -38,7 +38,7 @@ var name;
 console.log(name); // Output: undefined
 E. Conclusion
 The var keyword is the foundation of JavaScript variables. It’s simple, flexible, and works fine. While newer methods exist, var still does the job and is easy to learn. Stick to this when starting out—no need to overthink!
-............................ const .....................
+ - ............................ const .....................
 - About Lesson
 A. Introduction
 Imagine you have a name tag that says, “Hi, my name is John.” Once you write your name on it, you can’t change the name anymore—it stays the same forever!
@@ -87,7 +87,7 @@ const city = "New York"; // ✅
 E. Conclusion
 const is a great way to declare variables when the value should never change. It keeps your code clean and prevents accidental changes. Just remember: assign a value right away, don’t reassign it, and use it only when the value is constant.
 
-.................... let .................................
+- .................... let .................................
 About Lesson
 Introduction
 Imagine you have a whiteboard where you can write something down, erase it, and write something new whenever you want. That’s how let works in JavaScript—it allows you to create variables that can change (be reassigned) later.
